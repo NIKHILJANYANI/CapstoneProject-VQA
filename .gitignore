@@ -9,4 +9,6 @@ local.properties
 
 # IDE files
 .idea/
-*.iml
+*.imlapp/build/
+build/
+.gradle/
