@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Visual Assistant</string>
+    <string name="btn_start">START</string>
+    <string name="btn_stop">STOP</string>
+    <string name="btn_mic">Speak Command</string>
+    <string name="status_inactive">Press START to begin</string>
+    <string name="status_active">Assistant active. Tap microphone to speak.</string>
+    <string name="status_listening">Listening…</string>
+    <string name="tts_start_message">Visual assistant started. How can I help you?</string>
+    <string name="tts_stop_message">Visual assistant stopped.</string>
+    <string name="permission_camera_rationale">Camera permission is required to see your surroundings.</string>
+    <string name="permission_audio_rationale">Microphone permission is required to understand your voice commands.</string>
+    <string name="safety_disclaimer">This app is an assistive tool only. It is NOT a certified safety device. Always exercise real-world caution.</string>
+</resources>
